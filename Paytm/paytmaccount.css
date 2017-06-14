@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+#one{
+	color: blue;
+
+}
+#two{
+	color: lightblue;
+}
+a{
+	color: lightblue;
+}
+button{
+	font-size: 25px;
+	background-color: skyblue;
+	color: white;
+}

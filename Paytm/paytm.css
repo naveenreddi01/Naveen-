@@ -1,0 +1,60 @@
+#first{
+	color: blue;
+
+}
+#second{
+	color: lightblue;
+}
+#third{
+	background-color: blue;
+}
+button{
+	scroll-behavior: right;
+}
+#four{
+	color: white;
+}
+div button{
+	color: blue;
+}
+div input{
+	color: blue;
+	width: 21%;
+	height: 40%;
+}
+a{
+	text-decoration: none;
+}
+
+#contact{
+	text-align: center;
+	color: blue;
+}
+#login{
+	position: absolute;
+	right: 10px;
+	top: 40px;
+	text-decoration-color: red;
+	background-color: blue;
+	font-size: 18px;
+}
+#home{
+	width: 300px;
+	height: 150px;
+}
+label{
+	color: blue;
+}
+#mall{
+	width: 300px;
+	height: 150px;	
+}
+#profile{
+	width: 300px;
+	height: 150px;
+
+}
+#updates{
+	width: 300px;
+	height: 150px;
+}

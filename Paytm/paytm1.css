@@ -1,0 +1,32 @@
+#first{
+	color: blue;
+
+}
+#second{
+	color: lightblue;
+}
+#third{
+	background-color: blue;
+}
+button{
+	scroll-behavior: right;
+}
+#four{
+	color: white;
+}
+div button{
+	color: blue;
+}
+div input{
+	color: blue;
+	width: 21%;
+	height: 40%;
+}
+a{
+	text-decoration: none;
+}
+
+#contact{
+	text-align: center;
+	color: blue;
+}
